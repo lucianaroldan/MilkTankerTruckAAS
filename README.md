@@ -20,7 +20,7 @@ A continuación, se describen cada uno de los submodelos que componen al Asset A
 
 Submodelo de propiedades generales
 
-Tabla 3. Descripción de elementos del Submodelo Propiedades generales
+Tabla. Descripción de elementos del Submodelo Propiedades generales
 ![image](https://github.com/lucianaroldan/MilkTankerTruckAAS/assets/1086796/64220053-8717-4306-b1fe-2a8c6de34377)
 
 
@@ -60,6 +60,8 @@ Tabla. Descripción de elementos del Submodelo Cisterna
 
 ![image](https://github.com/lucianaroldan/MilkTankerTruckAAS/assets/1086796/8e734f22-1f65-48ca-9056-b5dc46f35dbb)
 
+(*) se repite el submodelo para cada cisterna
+(**) se repite la submodel collection para cada tambo
 
 
 
