@@ -56,7 +56,7 @@ Entre las variables, se destacan aquellas que representan las mediciones realiza
 
 Submodelo de la Cisterna01
 
-Tabla. Descripción de elementos del Submodelo PHimetros 
+Tabla. Descripción de elementos del Submodelo Cisterna 
 
 ![image](https://github.com/lucianaroldan/MilkTankerTruckAAS/assets/1086796/8e734f22-1f65-48ca-9056-b5dc46f35dbb)
 
