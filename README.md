@@ -3,6 +3,8 @@ Asset Administration Shell of a Milk Tanker Truck
 
 This AAS was generated using AASX Package Explorer (https://github.com/admin-shell-io/aasx-package-explorer)
 
+<img width="338" alt="image" src="https://github.com/lucianaroldan/MilkTankerTruckAAS/assets/1086796/e74aaf41-d079-4b08-9bf4-9c14b6f07f1b">
+
 A continuación, se describe cómo se estructuraron los datos del AAS del tanque según los aspectos comunes que poseen. El Asset Administration Shell propuesto para el Tanque de transporte de leche se organizó con los siguientes submodelos:
 Submodelo de propiedades generales
 - Submodelo de datos de GPS
