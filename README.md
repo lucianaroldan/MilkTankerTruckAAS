@@ -52,7 +52,7 @@ Tabla. Descripción de elementos del Submodelo PHimetros
 Luego, se define un submodelo “Cisterna” por cada cisterna que posee el tanque (en total 5).  La representación propuesta posibilita agrupar los datos relativos a los momentos de carga (Submodel collection Carga), transporte, y descarga (Submodel collection Descarga) de cada cisterna. Dado que en cada cisterna puede cargarse leche de más de un tambo (máximo 3), se definen submodel collections “Tambo” para agrupar los datos relativos a la carga realizada por cada tambo. 
 Entre las variables, se destacan aquellas que representan las mediciones realizadas por los dispositivos en el camión como Volumen_cargado, Temperatura_carga, y Temperatura_descarga (datos generado por el caudalímetro), temp_cisterna (dato generado por el termómetro en cada cisterna), y PH_cisterna (dato generado por el PHímetro en cada cisterna). Un ejemplo de submodelo (Cisterna01)  se detallan a continuación.
 
-<img width="258" alt="image" src="https://github.com/lucianaroldan/MilkTankerTruckAAS/assets/1086796/27d1a9a4-63ba-4afd-8641-f82e989492ce">
+<img width="70%" alt="image" src="https://github.com/lucianaroldan/MilkTankerTruckAAS/assets/1086796/27d1a9a4-63ba-4afd-8641-f82e989492ce">
 
 Submodelo de la Cisterna01
 
