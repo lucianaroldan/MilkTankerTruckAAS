@@ -65,6 +65,8 @@ Tabla. Descripción de elementos del Submodelo Cisterna
 (*) se repite el submodelo para cada cisterna
 (**) se repite la submodel collection para cada tambo
 
+---
+Contribuyeron a este trabajo: Luciana Roldán, Pedro Querini, Mariela Formía, Ignacio Arguimbau, Andrés Gatti.  Se agradece al BID, al Min. de Educación de la Nación y al German-Argentine University Center (DAHZ) por el financiamiento recibido para realizar el curso de posgrado “I4.0 y SFCI”, dictado por la Hochschule Emden/Leer (HSEL), Alemania, y la UTN FRSF y UTN FRM, Argentina. 
 
 
 
